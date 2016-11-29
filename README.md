@@ -1,1 +1,2 @@
-# mlpy
+#MLPy
+Machine Learning using Python
